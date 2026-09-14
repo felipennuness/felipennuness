@@ -1,4 +1,4 @@
-# Hi, I'm Luiz Felipe Nunes 👋
+# Hi, I'm Luiz Felipe Nunes
 
 ### BI Developer | Qlik Sense | Qlik Cloud | Qlik Talend Cloud | SQL | Data Analytics
 
