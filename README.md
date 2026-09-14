@@ -93,17 +93,22 @@ Business Intelligence solution designed to support inventory monitoring and oper
 > Portfolio case study in preparation.
 
 ### 🖥️ [Qlik Talend Cloud Data Movement POC — In Progress](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
-Ongoing BI and data integration proof of concept focused on building and validating a modern Qlik data movement architecture.
+Ongoing data integration proof of concept focused on moving operational data from an **on-premises MySQL database** to **Azure SQL Database** using **Qlik Talend Cloud**.
 
-**Current milestone completed:** source/target connectivity and data movement are working successfully.
+**Current validated milestone:** Data Movement from MySQL on-premises to Azure SQL Database is working successfully.
 
 **Hands-on work completed so far:**
-- Qlik Talend Cloud environment and data movement configuration
-- Connectivity setup across heterogeneous database environments
-- Data movement scenarios involving **AWS**, **Azure SQL Database**, **SQL Server**, and **MySQL**
-- Virtual machine / infrastructure configuration for the integration environment
-- Source-to-target connectivity validation
-- Data transfer validation and troubleshooting
+- Integration / virtual machine environment preparation
+- Qlik Talend Cloud environment and Data Movement configuration
+- **MySQL on-premises source** connectivity
+- **Azure SQL Database destination** connectivity
+- Source-to-target Data Movement execution
+- Data transfer validation in Azure
+- Connectivity and movement troubleshooting
+
+**Alternative architecture explored:**
+- **AWS + Apache Iceberg** destination scenario
+- Not finalized because of additional infrastructure cost for the POC
 
 **Next project stages:**
 - Advanced pipeline configuration and orchestration
@@ -114,7 +119,9 @@ Ongoing BI and data integration proof of concept focused on building and validat
 - Reporting workflows
 - Qlik Answers / AI-assisted analytics
 
-**Current technologies:** Qlik Talend Cloud • Data Movement • AWS • Azure SQL Database • SQL Server • MySQL • VM Environment • Data Integration • BI Architecture
+**Validated technologies:** Qlik Talend Cloud • Data Movement • MySQL On-Premises • Azure SQL Database • VM Environment • Data Integration
+
+**Explored:** AWS • Apache Iceberg
 
 > **Status:** In progress. This case study will be updated as each technical milestone is implemented and validated.
 >
