@@ -63,6 +63,7 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 - Python, Pandas & SQLAlchemy
 - MySQL & Relational Databases
 - SQL Server
+- Azure SQL Database
 - BI Infrastructure & Data Integration
 - Data Flow Architecture
 
@@ -99,7 +100,7 @@ Ongoing BI and data integration proof of concept focused on building and validat
 **Hands-on work completed so far:**
 - Qlik Talend Cloud environment and data movement configuration
 - Connectivity setup across heterogeneous database environments
-- Data movement scenarios involving **AWS**, a **Microsoft SaaS/cloud database environment**, **SQL Server**, and **MySQL**
+- Data movement scenarios involving **AWS**, **Azure SQL Database**, **SQL Server**, and **MySQL**
 - Virtual machine / infrastructure configuration for the integration environment
 - Source-to-target connectivity validation
 - Data transfer validation and troubleshooting
@@ -113,7 +114,7 @@ Ongoing BI and data integration proof of concept focused on building and validat
 - Reporting workflows
 - Qlik Answers / AI-assisted analytics
 
-**Current technologies:** Qlik Talend Cloud • Data Movement • AWS • Microsoft Cloud/SaaS Database • SQL Server • MySQL • VM Environment • Data Integration • BI Architecture
+**Current technologies:** Qlik Talend Cloud • Data Movement • AWS • Azure SQL Database • SQL Server • MySQL • VM Environment • Data Integration • BI Architecture
 
 > **Status:** In progress. This case study will be updated as each technical milestone is implemented and validated.
 
