@@ -92,7 +92,7 @@ Business Intelligence solution designed to support inventory monitoring and oper
 
 > Portfolio case study in preparation.
 
-### 🖥️ Qlik Talend Cloud Data Movement POC — In Progress
+### 🖥️ [Qlik Talend Cloud Data Movement POC — In Progress](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
 Ongoing BI and data integration proof of concept focused on building and validating a modern Qlik data movement architecture.
 
 **Current milestone completed:** source/target connectivity and data movement are working successfully.
@@ -117,6 +117,8 @@ Ongoing BI and data integration proof of concept focused on building and validat
 **Current technologies:** Qlik Talend Cloud • Data Movement • AWS • Azure SQL Database • SQL Server • MySQL • VM Environment • Data Integration • BI Architecture
 
 > **Status:** In progress. This case study will be updated as each technical milestone is implemented and validated.
+>
+> [View full technical case study →](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
 
 ---
 
