@@ -6,7 +6,7 @@ I am a Business Intelligence developer focused on transforming business requirem
 
 My hands-on experience includes **Qlik Sense, Qlik Cloud Analytics, Qlik Talend Cloud (QTC), data movement, data modeling, ETL, SQL, Python, dashboard development, KPI design, data validation, and BI infrastructure**.
 
-I am also actively expanding my experience across the broader Qlik Cloud ecosystem, including **Qlik Automate, Reporting, Qlik Answers, Data Products, and advanced data pipeline orchestration**.
+I am also expanding my experience across the broader Qlik Cloud ecosystem, including **Qlik Automate, Reporting, Qlik Answers, Data Products, and advanced data pipeline orchestration**.
 
 ---
 
@@ -24,10 +24,10 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 
 ![Qlik](https://img.shields.io/badge/Qlik-Sense%20%7C%20Cloud-009845?style=flat-square)
 ![QTC](https://img.shields.io/badge/Qlik%20Talend%20Cloud-Data%20Movement-009845?style=flat-square)
-![Automation](https://img.shields.io/badge/Qlik%20Automate-Workflow%20Automation-009845?style=flat-square)
-![Reporting](https://img.shields.io/badge/Qlik%20Reporting-Automated%20Reports-009845?style=flat-square)
-![Answers](https://img.shields.io/badge/Qlik%20Answers-AI%20Analytics-009845?style=flat-square)
-![Data Products](https://img.shields.io/badge/Qlik-Data%20Products-009845?style=flat-square)
+![Automation](https://img.shields.io/badge/Qlik%20Automate-Expanding-009845?style=flat-square)
+![Reporting](https://img.shields.io/badge/Qlik%20Reporting-Expanding-009845?style=flat-square)
+![Answers](https://img.shields.io/badge/Qlik%20Answers-Expanding-009845?style=flat-square)
+![Data Products](https://img.shields.io/badge/Qlik-Data%20Products%20%7C%20Expanding-009845?style=flat-square)
 
 ### Hands-on Experience
 - Qlik Sense & Qlik Cloud Analytics
@@ -37,7 +37,9 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 - KPI design and business rule implementation
 - Qlik Talend Cloud (QTC)
 - Data Movement configuration
+- Qlik Data Gateway
 - Source and target connectivity configuration
+- CDC / incremental replication in POC scenarios
 - Data validation and analytical troubleshooting
 - Business requirements and stakeholder analysis
 
@@ -72,56 +74,64 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 ## 📊 Featured Projects
 
 ### 💳 [Credit Operations Analytics & Data Pipeline](https://github.com/felipennuness/Credit-Operations-Analytics-Data-Pipeline)
-End-to-end credit operations solution combining **Python ETL, MySQL, Qlik associative modeling, commercial analytics, opportunity scoring, financial performance, and reconciliation monitoring**.
+**Complete public portfolio case** combining data engineering and Qlik analytics for credit operations.
 
-**Project coverage:**
+**Highlights:**
 - Python / Pandas ETL and data quality treatment
 - Relational modeling and MySQL loading with SQLAlchemy / PyMySQL
 - QVD preparation and Qlik associative data model
 - Executive analytics and commercial funnel
 - Portfolio opportunity scoring and prioritization
-- Financial result analysis
-- Manager performance analytics
+- Financial and manager performance analytics
 - Reconciliation and delinquency monitoring
+- Curated dashboard evidence with simulated analytical values
 
 **Technologies:** Python • Pandas • SQLAlchemy • PyMySQL • MySQL • Qlik Sense / Qlik Cloud • QVD • Data Modeling • Business Intelligence
 
-> Public case study uses anonymized documentation and sanitized evidence to protect confidential credit and customer information.
->
 > [View full case study →](https://github.com/felipennuness/Credit-Operations-Analytics-Data-Pipeline)
+
+### 📈 [Investment Fund Analytics — In Development](https://github.com/felipennuness/investment-fund-analytics)
+Qlik-based investment fund analytics application focused on **portfolio monitoring, NAV/AUM, fund performance, liquidity, allocation, cash positions, and operational fund monitoring**.
+
+**Current public scope:**
+- Executive portfolio overview
+- Fund-level monitoring and AUM concentration
+- Cash statement and cash balance analysis
+- Return, volatility, CDI comparison, liquidity, and allocation indicators
+- Qlik Set Analysis, variables, calculated measures, filters, and analytical navigation
+
+**Additional modules in development:**
+Performance • Benchmark Analysis • Return by Asset • Attribution • Movements • Cash Quality • Portfolio Composition • Monthly History • Data Reliability • Liquidity
+
+**Technologies:** Qlik Sense / Qlik Cloud • Qlik Script • Set Analysis • Associative Data Modeling • KPI Design • Investment Fund Analytics
+
+> Public repository intentionally exposes only selected analytical views while the broader application continues to evolve.
+>
+> [View project →](https://github.com/felipennuness/investment-fund-analytics)
 
 ### 🖥️ [Qlik Talend Cloud Data Integration POC — In Progress](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
 Ongoing data integration proof of concept built with **Qlik Talend Cloud**.
 
 **Validated milestone:**
 - **MySQL on-premises → Azure SQL Database** through Qlik Data Movement
-- Source/target connectivity, movement execution, Azure-side validation, and troubleshooting completed successfully
+- Qlik Data Gateway, source/target connectivity, initial load, CDC configuration, movement execution, Azure-side validation, and troubleshooting
 
 **Current next phase:**
+- Keep **MySQL on-premises as source**
 - Use **SQL Server as a lower-cost test destination**
-- Keep **MySQL on-premises as the source**
 - Configure and validate **Qlik Talend Cloud pipelines, orchestration, and transformation tests**
 
 **Alternative architecture explored:**
-- **AWS + Apache Iceberg** destination scenario
+- **AWS + Apache Iceberg / Qlik Open Lakehouse**
 - Not finalized because of additional infrastructure cost for the POC
 
-**Validated technologies:** Qlik Talend Cloud • Data Movement • MySQL On-Premises • Azure SQL Database • VM Environment • Data Integration
+**Validated technologies:** Qlik Talend Cloud • Data Movement • Data Gateway • CDC • MySQL On-Premises • Azure SQL Database • VM Environment • Data Integration
 
 **Current testing direction:** SQL Server • Qlik Data Pipelines
 
-**Explored:** AWS • Apache Iceberg
-
-> **Status:** In progress. Only technically implemented and validated milestones are marked as completed.
+> Only technically implemented and validated milestones are marked as completed.
 >
 > [View full technical case study →](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
-
-### 📈 Investment Fund Analytics
-Enterprise BI solution for investment fund analysis, focused on portfolio monitoring, performance, benchmarks, liquidity, cash positions, movements, and data quality.
-
-**Technologies:** Qlik Sense / Qlik Cloud • Data Modeling • Set Analysis • KPI Design
-
-> Portfolio case study in preparation using anonymized and synthetic data.
 
 ### 📦 Inventory Analytics
 Business Intelligence solution designed to support inventory monitoring and operational analysis through dashboards and business KPIs.
@@ -147,6 +157,6 @@ Business Intelligence solution designed to support inventory monitoring and oper
 
 ## 🎯 Portfolio Goal
 
-This GitHub documents practical Business Intelligence projects, architecture decisions, data transformations, SQL studies, Qlik development techniques, Qlik Talend Cloud data integration scenarios, and my continued development across the broader Qlik ecosystem.
+This GitHub documents practical Business Intelligence projects, architecture decisions, data transformations, SQL studies, Qlik development techniques, Qlik Talend Cloud data integration scenarios, and continued development across the broader Qlik ecosystem.
 
-All public case studies are designed to protect confidential information by using **anonymized, simulated, or synthetic data**.
+All public case studies are designed to protect confidential information through **anonymized, simulated, synthetic, or selectively published evidence**.
