@@ -74,12 +74,12 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 ## 📊 Featured Projects
 
 ### 💳 [Credit Operations Analytics & Data Pipeline](https://github.com/felipennuness/Credit-Operations-Analytics-Data-Pipeline)
-**Complete public portfolio case** combining data engineering and Qlik analytics for credit operations.
+**Complete public portfolio case** combining practical data engineering work with a Qlik analytics application for credit operations.
 
 **Highlights:**
 - Python / Pandas ETL and data quality treatment
 - Relational modeling and MySQL loading with SQLAlchemy / PyMySQL
-- QVD preparation and Qlik associative data model
+- QVD-based analytical preparation and Qlik associative modeling
 - Executive analytics and commercial funnel
 - Portfolio opportunity scoring and prioritization
 - Financial and manager performance analytics
@@ -133,12 +133,14 @@ Ongoing data integration proof of concept built with **Qlik Talend Cloud**.
 >
 > [View full technical case study →](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
 
-### 📦 Inventory Analytics
-Business Intelligence solution designed to support inventory monitoring and operational analysis through dashboards and business KPIs.
+---
 
-**Technologies:** Qlik • Data Modeling • Business Intelligence
+## 🚧 Next Portfolio Cases
 
-> Portfolio case study in preparation.
+- **Inventory Analytics** — Qlik-based inventory monitoring and operational KPIs
+- **SQL Lab** — practical SQL studies and business-analysis case exercises
+
+These cases will be added to the featured section only after they have enough public evidence and documentation to stand on their own.
 
 ---
 
