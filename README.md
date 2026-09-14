@@ -71,26 +71,24 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 
 ## 📊 Featured Projects
 
-### 📈 Investment Fund Analytics
-Enterprise BI solution for investment fund analysis, focused on portfolio monitoring, performance, benchmarks, liquidity, cash positions, movements, and data quality.
+### 💳 [Credit Operations Analytics & Data Pipeline](https://github.com/felipennuness/Credit-Operations-Analytics-Data-Pipeline)
+End-to-end credit operations solution combining **Python ETL, MySQL, Qlik associative modeling, commercial analytics, opportunity scoring, financial performance, and reconciliation monitoring**.
 
-**Technologies:** Qlik Sense / Qlik Cloud • Data Modeling • Set Analysis • KPI Design
+**Project coverage:**
+- Python / Pandas ETL and data quality treatment
+- Relational modeling and MySQL loading with SQLAlchemy / PyMySQL
+- QVD preparation and Qlik associative data model
+- Executive analytics and commercial funnel
+- Portfolio opportunity scoring and prioritization
+- Financial result analysis
+- Manager performance analytics
+- Reconciliation and delinquency monitoring
 
-> Portfolio case study in preparation using anonymized and synthetic data.
+**Technologies:** Python • Pandas • SQLAlchemy • PyMySQL • MySQL • Qlik Sense / Qlik Cloud • QVD • Data Modeling • Business Intelligence
 
-### 💳 Credit Data Pipeline
-ETL pipeline for structuring credit operation data from spreadsheet sources, including data cleaning, type validation, normalization, business transformations, and relational database loading.
-
-**Technologies:** Python • Pandas • SQLAlchemy • MySQL • ETL
-
-> Portfolio case study in preparation using anonymized and synthetic data.
-
-### 📦 Inventory Analytics
-Business Intelligence solution designed to support inventory monitoring and operational analysis through dashboards and business KPIs.
-
-**Technologies:** Qlik • Data Modeling • Business Intelligence
-
-> Portfolio case study in preparation.
+> Public case study uses anonymized documentation and sanitized evidence to protect confidential credit and customer information.
+>
+> [View full case study →](https://github.com/felipennuness/Credit-Operations-Analytics-Data-Pipeline)
 
 ### 🖥️ [Qlik Talend Cloud Data Integration POC — In Progress](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
 Ongoing data integration proof of concept built with **Qlik Talend Cloud**.
@@ -117,6 +115,20 @@ Ongoing data integration proof of concept built with **Qlik Talend Cloud**.
 > **Status:** In progress. Only technically implemented and validated milestones are marked as completed.
 >
 > [View full technical case study →](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
+
+### 📈 Investment Fund Analytics
+Enterprise BI solution for investment fund analysis, focused on portfolio monitoring, performance, benchmarks, liquidity, cash positions, movements, and data quality.
+
+**Technologies:** Qlik Sense / Qlik Cloud • Data Modeling • Set Analysis • KPI Design
+
+> Portfolio case study in preparation using anonymized and synthetic data.
+
+### 📦 Inventory Analytics
+Business Intelligence solution designed to support inventory monitoring and operational analysis through dashboards and business KPIs.
+
+**Technologies:** Qlik • Data Modeling • Business Intelligence
+
+> Portfolio case study in preparation.
 
 ---
 
