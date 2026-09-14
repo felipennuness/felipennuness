@@ -92,38 +92,29 @@ Business Intelligence solution designed to support inventory monitoring and oper
 
 > Portfolio case study in preparation.
 
-### 🖥️ [Qlik Talend Cloud Data Movement POC — In Progress](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
-Ongoing data integration proof of concept focused on moving operational data from an **on-premises MySQL database** to **Azure SQL Database** using **Qlik Talend Cloud**.
+### 🖥️ [Qlik Talend Cloud Data Integration POC — In Progress](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
+Ongoing data integration proof of concept built with **Qlik Talend Cloud**.
 
-**Current validated milestone:** Data Movement from MySQL on-premises to Azure SQL Database is working successfully.
+**Validated milestone:**
+- **MySQL on-premises → Azure SQL Database** through Qlik Data Movement
+- Source/target connectivity, movement execution, Azure-side validation, and troubleshooting completed successfully
 
-**Hands-on work completed so far:**
-- Integration / virtual machine environment preparation
-- Qlik Talend Cloud environment and Data Movement configuration
-- **MySQL on-premises source** connectivity
-- **Azure SQL Database destination** connectivity
-- Source-to-target Data Movement execution
-- Data transfer validation in Azure
-- Connectivity and movement troubleshooting
+**Current next phase:**
+- Use **SQL Server as a lower-cost test destination**
+- Keep **MySQL on-premises as the source**
+- Configure and validate **Qlik Talend Cloud pipelines, orchestration, and transformation tests**
 
 **Alternative architecture explored:**
 - **AWS + Apache Iceberg** destination scenario
 - Not finalized because of additional infrastructure cost for the POC
 
-**Next project stages:**
-- Advanced pipeline configuration and orchestration
-- Data transformation and preparation
-- Data Products
-- Qlik Cloud analytical consumption
-- Qlik Automate
-- Reporting workflows
-- Qlik Answers / AI-assisted analytics
-
 **Validated technologies:** Qlik Talend Cloud • Data Movement • MySQL On-Premises • Azure SQL Database • VM Environment • Data Integration
+
+**Current testing direction:** SQL Server • Qlik Data Pipelines
 
 **Explored:** AWS • Apache Iceberg
 
-> **Status:** In progress. This case study will be updated as each technical milestone is implemented and validated.
+> **Status:** In progress. Only technically implemented and validated milestones are marked as completed.
 >
 > [View full technical case study →](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
 
