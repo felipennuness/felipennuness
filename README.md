@@ -4,7 +4,9 @@
 
 I am a Business Intelligence developer focused on transforming business requirements and complex data into reliable, clear, and actionable analytical solutions.
 
-My experience spans the broader **Qlik Cloud ecosystem**, including analytics, data integration, automation, reporting, AI-assisted analytics, governed data products, data movement, and pipeline orchestration.
+My hands-on experience includes **Qlik Sense, Qlik Cloud Analytics, Qlik Talend Cloud (QTC), data movement, data modeling, ETL, SQL, Python, dashboard development, KPI design, data validation, and BI infrastructure**.
+
+I am also actively expanding my experience across the broader Qlik Cloud ecosystem, including **Qlik Automate, Reporting, Qlik Answers, Data Products, and advanced data pipeline orchestration**.
 
 ---
 
@@ -21,46 +23,30 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 ## 🧩 Qlik Ecosystem
 
 ![Qlik](https://img.shields.io/badge/Qlik-Sense%20%7C%20Cloud-009845?style=flat-square)
-![QTC](https://img.shields.io/badge/Qlik%20Talend%20Cloud-Data%20Movement%20%7C%20Pipelines-009845?style=flat-square)
+![QTC](https://img.shields.io/badge/Qlik%20Talend%20Cloud-Data%20Movement-009845?style=flat-square)
 ![Automation](https://img.shields.io/badge/Qlik%20Automate-Workflow%20Automation-009845?style=flat-square)
 ![Reporting](https://img.shields.io/badge/Qlik%20Reporting-Automated%20Reports-009845?style=flat-square)
 ![Answers](https://img.shields.io/badge/Qlik%20Answers-AI%20Analytics-009845?style=flat-square)
 ![Data Products](https://img.shields.io/badge/Qlik-Data%20Products-009845?style=flat-square)
 
-### Analytics & Application Development
+### Hands-on Experience
 - Qlik Sense & Qlik Cloud Analytics
 - Dashboard and analytical application development
 - Qlik Script & Set Analysis
 - Associative data modeling
 - KPI design and business rule implementation
+- Qlik Talend Cloud (QTC)
+- Data Movement configuration
+- Source and target connectivity configuration
 - Data validation and analytical troubleshooting
 - Business requirements and stakeholder analysis
 
-### Data Integration & Qlik Talend Cloud
-- Qlik Talend Cloud (QTC)
-- Data Movement configuration
-- Data Pipeline configuration and orchestration
-- Source-to-target data integration
-- Data flow architecture
-- Data preparation and transformation
-- Integration between operational data and analytics environments
-
-### Automation & Reporting
-- **Qlik Automate (Application Automation)**
-- Workflow and process automation
-- Automation of Qlik Cloud operational tasks
-- Integration of Qlik workflows with data and analytics processes
-- **Qlik Reporting Service**
-- Automated and scheduled report generation
-- Distribution-oriented reporting workflows
-- PDF and PowerPoint reporting scenarios
-
-### AI & Governed Data
-- **Qlik Answers** for AI-assisted analytics and natural-language interaction with trusted data
-- Structured and unstructured data use cases with Qlik Answers
-- **Qlik Data Products** for organizing and exposing trusted, reusable datasets
-- Data product creation and consumption within the Qlik ecosystem
-- Governed datasets prepared for analytics, automation, and AI use cases
+### Currently Expanding
+- Advanced Qlik Talend Cloud pipeline orchestration
+- Qlik Automate and workflow automation
+- Qlik Reporting workflows
+- Qlik Answers and AI-assisted analytics
+- Qlik Data Products and governed data delivery
 
 ---
 
@@ -76,8 +62,9 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 - ETL & Data Transformation
 - Python, Pandas & SQLAlchemy
 - MySQL & Relational Databases
-- BI Infrastructure & Data Pipelines
-- Data Flow and Integration Architecture
+- SQL Server
+- BI Infrastructure & Data Integration
+- Data Flow Architecture
 
 ---
 
@@ -104,14 +91,31 @@ Business Intelligence solution designed to support inventory monitoring and oper
 
 > Portfolio case study in preparation.
 
-### 🖥️ BI Infrastructure, QTC Data Movement & Analytics POC
-BI proof of concept involving infrastructure setup, virtual machine environment, **Qlik Talend Cloud data movement configuration, pipeline setup, data transfer, data preparation, and analytical solution development**.
+### 🖥️ Qlik Talend Cloud Data Movement POC — In Progress
+Ongoing BI and data integration proof of concept focused on building and validating a modern Qlik data movement architecture.
 
-The solution also explores broader Qlik Cloud capabilities such as **automation, reporting, data products, and AI-assisted analytics** as part of an end-to-end modern BI architecture.
+**Current milestone completed:** source/target connectivity and data movement are working successfully.
 
-**Technologies:** Qlik • Qlik Talend Cloud • Data Movement • Pipelines • Qlik Automate • Qlik Reporting • Qlik Answers • Data Products • VM Environment • Data Integration • BI Architecture
+**Hands-on work completed so far:**
+- Qlik Talend Cloud environment and data movement configuration
+- Connectivity setup across heterogeneous database environments
+- Data movement scenarios involving **AWS**, a **Microsoft SaaS/cloud database environment**, **SQL Server**, and **MySQL**
+- Virtual machine / infrastructure configuration for the integration environment
+- Source-to-target connectivity validation
+- Data transfer validation and troubleshooting
 
-> Portfolio case study in preparation using a public architecture and anonymized technical examples.
+**Next project stages:**
+- Advanced pipeline configuration and orchestration
+- Data transformation and preparation
+- Data Products
+- Qlik Cloud analytical consumption
+- Qlik Automate
+- Reporting workflows
+- Qlik Answers / AI-assisted analytics
+
+**Current technologies:** Qlik Talend Cloud • Data Movement • AWS • Microsoft Cloud/SaaS Database • SQL Server • MySQL • VM Environment • Data Integration • BI Architecture
+
+> **Status:** In progress. This case study will be updated as each technical milestone is implemented and validated.
 
 ---
 
@@ -120,7 +124,7 @@ The solution also explores broader Qlik Cloud capabilities such as **automation,
 - Advanced SQL for analytics and data engineering
 - Complex queries, joins, CTEs and data validation
 - Qlik Cloud and Qlik Talend Cloud architecture
-- Data movement and pipeline design
+- Data pipeline design and orchestration
 - Qlik Automate and reporting workflows
 - Qlik Answers and AI-assisted analytics
 - Data Products and governed data delivery
@@ -130,6 +134,6 @@ The solution also explores broader Qlik Cloud capabilities such as **automation,
 
 ## 🎯 Portfolio Goal
 
-This GitHub documents practical Business Intelligence projects, architecture decisions, data transformations, SQL studies, Qlik development techniques, Qlik Talend Cloud data integration scenarios, automation, reporting, AI-assisted analytics, governed data products, and lessons learned from real-world analytical projects.
+This GitHub documents practical Business Intelligence projects, architecture decisions, data transformations, SQL studies, Qlik development techniques, Qlik Talend Cloud data integration scenarios, and my continued development across the broader Qlik ecosystem.
 
 All public case studies are designed to protect confidential information by using **anonymized, simulated, or synthetic data**.
