@@ -154,11 +154,10 @@ Ongoing data integration proof of concept built with **Qlik Talend Cloud**.
 
 ---
 
-## 🚧 Next Portfolio Case
+## 📚 Study & Practice
 
-- **SQL Lab** — practical SQL studies and business-analysis case exercises
-
-This case will be added to the featured section after it has enough public evidence and documentation to stand on its own.
+### [SQL Data Analysis Lab](https://github.com/felipennuness/sql-data-analysis-lab)
+SQL study documentation with practical MySQL exercises covering joins, subqueries, CTEs, window functions, SQL functions, analytical techniques, and a final baseball analysis project.
 
 ---
 
