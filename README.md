@@ -4,9 +4,9 @@
 
 I am a Business Intelligence developer focused on transforming business requirements and complex data into reliable, clear, and actionable analytical solutions.
 
-My hands-on experience includes **Qlik Sense, Qlik Cloud Analytics, Qlik Talend Cloud (QTC), data movement, data modeling, ETL, SQL, Python, dashboard development, KPI design, data validation, and BI infrastructure**.
+My hands-on experience includes **Qlik Sense, Qlik Cloud Analytics, Qlik Talend Cloud (QTC), Qlik Automation, data movement, data modeling, ETL, SQL, Python, dashboard development, KPI design, data validation, and BI infrastructure**.
 
-I am also expanding my experience across the broader Qlik Cloud ecosystem, including **Qlik Automate, Reporting, Qlik Answers, Data Products, and advanced data pipeline orchestration**.
+I am also expanding my experience across the broader Qlik Cloud ecosystem, including **Reporting, Qlik Answers, Data Products, and advanced data pipeline orchestration**.
 
 ---
 
@@ -24,7 +24,7 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 
 ![Qlik](https://img.shields.io/badge/Qlik-Sense%20%7C%20Cloud-009845?style=flat-square)
 ![QTC](https://img.shields.io/badge/Qlik%20Talend%20Cloud-Data%20Movement-009845?style=flat-square)
-![Automation](https://img.shields.io/badge/Qlik%20Automate-Expanding-009845?style=flat-square)
+![Automation](https://img.shields.io/badge/Qlik%20Automation-Workflow%20Automation-009845?style=flat-square)
 ![Reporting](https://img.shields.io/badge/Qlik%20Reporting-Expanding-009845?style=flat-square)
 ![Answers](https://img.shields.io/badge/Qlik%20Answers-Expanding-009845?style=flat-square)
 ![Data Products](https://img.shields.io/badge/Qlik-Data%20Products%20%7C%20Expanding-009845?style=flat-square)
@@ -35,6 +35,7 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 - Qlik Script & Set Analysis
 - Associative data modeling
 - KPI design and business rule implementation
+- Qlik Automation and workflow-based notifications
 - Qlik Talend Cloud (QTC)
 - Data Movement configuration
 - Qlik Data Gateway
@@ -45,7 +46,7 @@ These qualifications reinforce my experience across the Qlik ecosystem, from bus
 
 ### Currently Expanding
 - Advanced Qlik Talend Cloud pipeline orchestration
-- Qlik Automate and workflow automation
+- Advanced Qlik Automation scenarios
 - Qlik Reporting workflows
 - Qlik Answers and AI-assisted analytics
 - Qlik Data Products and governed data delivery
@@ -109,6 +110,24 @@ Performance • Benchmark Analysis • Return by Asset • Attribution • Movem
 >
 > [View project →](https://github.com/felipennuness/investment-fund-analytics)
 
+### 📦 [StockGuard — Intelligent Inventory Monitoring](https://github.com/felipennuness/stockguard-inventory-monitoring)
+End-to-end operational analytics case showing how Qlik can move beyond visualization into **risk prioritization and automated action**.
+
+**Highlights:**
+- Inventory coverage calculation based on current stock and average daily sales
+- Healthy / Attention / Critical risk classification
+- Operational Qlik dashboard and priority queue
+- MySQL relational model and SQL validation
+- Fictional demo data generated/exported with Python
+- Qlik Automation workflow for critical products
+- Consolidated HTML purchase-request e-mail sent to the buyer
+
+**Technologies:** Qlik Cloud • Qlik Sense • Qlik Automation • MySQL • SQL • Python • HTML / CSS
+
+> All StockGuard data is fictional and was created exclusively for demonstration and portfolio purposes.
+>
+> [View full case study →](https://github.com/felipennuness/stockguard-inventory-monitoring)
+
 ### 🖥️ [Qlik Talend Cloud Data Integration POC — In Progress](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
 Ongoing data integration proof of concept built with **Qlik Talend Cloud**.
 
@@ -135,12 +154,11 @@ Ongoing data integration proof of concept built with **Qlik Talend Cloud**.
 
 ---
 
-## 🚧 Next Portfolio Cases
+## 🚧 Next Portfolio Case
 
-- **Inventory Analytics** — Qlik-based inventory monitoring and operational KPIs
 - **SQL Lab** — practical SQL studies and business-analysis case exercises
 
-These cases will be added to the featured section only after they have enough public evidence and documentation to stand on their own.
+This case will be added to the featured section after it has enough public evidence and documentation to stand on its own.
 
 ---
 
@@ -150,7 +168,7 @@ These cases will be added to the featured section only after they have enough pu
 - Complex queries, joins, CTEs and data validation
 - Qlik Cloud and Qlik Talend Cloud architecture
 - Data pipeline design and orchestration
-- Qlik Automate and reporting workflows
+- Advanced Qlik Automation and reporting workflows
 - Qlik Answers and AI-assisted analytics
 - Data Products and governed data delivery
 - Data engineering and ETL best practices
