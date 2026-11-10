@@ -13,8 +13,7 @@ Experiência em projetos do setor financeiro com Google BigQuery e em engenharia
 - **Data Literacy Certification**
 - **Qlik Sense Qualification Exam – Data Architect**
 - **Qlik Sense Qualification Exam – Business Analyst**
-
-Essas qualificações complementam minha experiência no ecossistema Qlik, desde análise de negócio e desenvolvimento de dashboards até arquitetura de dados, analytics e boas práticas de alfabetização em dados.
+- **Qlik Certified Partner Sales - Data and Analytics**
 
 ---
 
