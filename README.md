@@ -1,181 +1,189 @@
-# Hi, I'm Luiz Felipe Nunes
+# Olá, sou Luiz Felipe Nunes
 
-### BI Developer | Qlik Sense | Qlik Cloud | Qlik Talend Cloud | SQL | Data Analytics
+### Desenvolvedor de BI | Qlik Sense | Qlik Cloud | Qlik Talend Cloud | SQL | Análise de Dados
 
-I am a Business Intelligence developer focused on transforming business requirements and complex data into reliable, clear, and actionable analytical solutions.
+Sou desenvolvedor de Business Intelligence, com foco em transformar necessidades de negócio e dados complexos em soluções analíticas confiáveis, claras e úteis para a tomada de decisão.
 
-My hands-on experience includes **Qlik Sense, Qlik Cloud Analytics, Qlik Talend Cloud (QTC), Qlik Automation, data movement, data modeling, ETL, SQL, Python, dashboard development, KPI design, data validation, and BI infrastructure**.
+Minha experiência prática inclui **Qlik Sense, Qlik Cloud Analytics, Qlik Talend Cloud (QTC), Qlik Automation, movimentação de dados, modelagem de dados, ETL, SQL, Python, desenvolvimento de dashboards, definição de KPIs, validação de dados e infraestrutura de BI**.
 
-I am also expanding my experience across the broader Qlik Cloud ecosystem, including **Reporting, Qlik Answers, Data Products, and advanced data pipeline orchestration**.
+Também estou ampliando minha atuação no ecossistema Qlik Cloud, incluindo **Reporting, Qlik Answers, Data Products e orquestração avançada de pipelines de dados**.
 
 ---
 
-## 🏅 Qlik Certifications & Qualifications
+## 🏅 Certificações e qualificações Qlik
 
 - **Data Literacy Certification**
 - **Qlik Sense Qualification Exam – Data Architect**
 - **Qlik Sense Qualification Exam – Business Analyst**
 
-These qualifications reinforce my experience across the Qlik ecosystem, from business analysis and dashboard development to data architecture, analytics, and data literacy best practices.
+Essas qualificações complementam minha experiência no ecossistema Qlik, desde análise de negócio e desenvolvimento de dashboards até arquitetura de dados, analytics e boas práticas de alfabetização em dados.
 
 ---
 
-## 🧩 Qlik Ecosystem
+## 🧩 Ecossistema Qlik
 
 ![Qlik](https://img.shields.io/badge/Qlik-Sense%20%7C%20Cloud-009845?style=flat-square)
-![QTC](https://img.shields.io/badge/Qlik%20Talend%20Cloud-Data%20Movement-009845?style=flat-square)
-![Automation](https://img.shields.io/badge/Qlik%20Automation-Workflow%20Automation-009845?style=flat-square)
-![Reporting](https://img.shields.io/badge/Qlik%20Reporting-Expanding-009845?style=flat-square)
-![Answers](https://img.shields.io/badge/Qlik%20Answers-Expanding-009845?style=flat-square)
-![Data Products](https://img.shields.io/badge/Qlik-Data%20Products%20%7C%20Expanding-009845?style=flat-square)
+![QTC](https://img.shields.io/badge/Qlik%20Talend%20Cloud-Movimenta%C3%A7%C3%A3o%20de%20Dados-009845?style=flat-square)
+![Automation](https://img.shields.io/badge/Qlik%20Automation-Automa%C3%A7%C3%A3o%20de%20Fluxos-009845?style=flat-square)
+![Reporting](https://img.shields.io/badge/Qlik%20Reporting-Em%20Desenvolvimento-009845?style=flat-square)
+![Answers](https://img.shields.io/badge/Qlik%20Answers-Em%20Desenvolvimento-009845?style=flat-square)
+![Data Products](https://img.shields.io/badge/Qlik-Produtos%20de%20Dados%20%7C%20Em%20Desenvolvimento-009845?style=flat-square)
 
-### Hands-on Experience
-- Qlik Sense & Qlik Cloud Analytics
-- Dashboard and analytical application development
-- Qlik Script & Set Analysis
-- Associative data modeling
-- KPI design and business rule implementation
-- Qlik Automation and workflow-based notifications
+### Experiência prática
+
+- Qlik Sense e Qlik Cloud Analytics
+- Desenvolvimento de dashboards e aplicações analíticas
+- Qlik Script e Set Analysis
+- Modelagem associativa de dados
+- Definição de KPIs e implementação de regras de negócio
+- Qlik Automation e notificações baseadas em fluxos de trabalho
 - Qlik Talend Cloud (QTC)
-- Data Movement configuration
+- Configuração de movimentação de dados
 - Qlik Data Gateway
-- Source and target connectivity configuration
-- CDC / incremental replication in POC scenarios
-- Data validation and analytical troubleshooting
-- Business requirements and stakeholder analysis
+- Configuração de conectividade entre origens e destinos
+- CDC / replicação incremental em cenários de POC
+- Validação de dados e análise de problemas
+- Levantamento de requisitos e análise com áreas de negócio
 
-### Currently Expanding
-- Advanced Qlik Talend Cloud pipeline orchestration
-- Advanced Qlik Automation scenarios
-- Qlik Reporting workflows
-- Qlik Answers and AI-assisted analytics
-- Qlik Data Products and governed data delivery
+### Conhecimentos em desenvolvimento
+
+- Orquestração avançada de pipelines no Qlik Talend Cloud
+- Cenários avançados de Qlik Automation
+- Fluxos de Reporting no Qlik
+- Qlik Answers e analytics com apoio de IA
+- Produtos de Dados Qlik e disponibilização governada de dados
 
 ---
 
-## 🛠️ Data & Engineering Stack
+## 🛠️ Tecnologias de dados e engenharia
 
-![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-336791?style=flat-square)
-![Python](https://img.shields.io/badge/Python-Data%20Processing-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-ETL%20%26%20Transformation-150458?style=flat-square&logo=pandas&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-An%C3%A1lise%20de%20Dados-336791?style=flat-square)
+![Python](https://img.shields.io/badge/Python-Processamento%20de%20Dados-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ETL%20e%20Transforma%C3%A7%C3%A3o-150458?style=flat-square&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-Banco%20de%20Dados-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-Controle%20de%20Vers%C3%A3o-F05032?style=flat-square&logo=git&logoColor=white)
 
-- SQL Queries, CTEs & Data Validation
-- ETL & Data Transformation
-- Python, Pandas & SQLAlchemy
-- MySQL & Relational Databases
+- Consultas SQL, CTEs e validação de dados
+- ETL e transformação de dados
+- Python, Pandas e SQLAlchemy
+- MySQL e bancos de dados relacionais
 - SQL Server
 - Azure SQL Database
-- BI Infrastructure & Data Integration
-- Data Flow Architecture
+- Infraestrutura de BI e integração de dados
+- Arquitetura de fluxo de dados
 
 ---
 
-## 📊 Featured Projects
+## 📊 Projetos em destaque
 
-### 💳 [Credit Operations Analytics & Data Pipeline](https://github.com/felipennuness/Credit-Operations-Analytics-Data-Pipeline)
-**Complete public portfolio case** combining practical data engineering work with a Qlik analytics application for credit operations.
+### 💳 [Analytics de Operações de Crédito e Pipeline de Dados](https://github.com/felipennuness/Credit-Operations-Analytics-Data-Pipeline)
 
-**Highlights:**
-- Python / Pandas ETL and data quality treatment
-- Relational modeling and MySQL loading with SQLAlchemy / PyMySQL
-- QVD-based analytical preparation and Qlik associative modeling
-- Executive analytics and commercial funnel
-- Portfolio opportunity scoring and prioritization
-- Financial and manager performance analytics
-- Reconciliation and delinquency monitoring
-- Curated dashboard evidence with simulated analytical values
+**Estudo de caso completo para portfólio**, que combina práticas de engenharia de dados com uma aplicação analítica Qlik voltada a operações de crédito.
 
-**Technologies:** Python • Pandas • SQLAlchemy • PyMySQL • MySQL • Qlik Sense / Qlik Cloud • QVD • Data Modeling • Business Intelligence
+**Destaques:**
+- ETL com Python / Pandas e tratamento de qualidade dos dados
+- Modelagem relacional e carga no MySQL com SQLAlchemy / PyMySQL
+- Preparação analítica com QVD e modelagem associativa no Qlik
+- Analytics executivo e funil comercial
+- Pontuação e priorização de oportunidades da carteira
+- Análises financeiras e de desempenho gerencial
+- Monitoramento de conciliação e inadimplência
+- Evidências de dashboards com valores analíticos simulados
 
-> [View full case study →](https://github.com/felipennuness/Credit-Operations-Analytics-Data-Pipeline)
+**Tecnologias:** Python • Pandas • SQLAlchemy • PyMySQL • MySQL • Qlik Sense / Qlik Cloud • QVD • Modelagem de Dados • Business Intelligence
 
-### 📈 [Investment Fund Analytics — In Development](https://github.com/felipennuness/investment-fund-analytics)
-Qlik-based investment fund analytics application focused on **portfolio monitoring, NAV/AUM, fund performance, liquidity, allocation, cash positions, and operational fund monitoring**.
+> [Acessar o estudo de caso completo](https://github.com/felipennuness/Credit-Operations-Analytics-Data-Pipeline)
 
-**Current public scope:**
-- Executive portfolio overview
-- Fund-level monitoring and AUM concentration
-- Cash statement and cash balance analysis
-- Return, volatility, CDI comparison, liquidity, and allocation indicators
-- Qlik Set Analysis, variables, calculated measures, filters, and analytical navigation
+### 📈 [Analytics de Fundos de Investimento — Em desenvolvimento](https://github.com/felipennuness/investment-fund-analytics)
 
-**Additional modules in development:**
-Performance • Benchmark Analysis • Return by Asset • Attribution • Movements • Cash Quality • Portfolio Composition • Monthly History • Data Reliability • Liquidity
+Aplicação analítica desenvolvida em Qlik para **acompanhamento de carteiras, PL/AUM, desempenho dos fundos, liquidez, alocação, posições de caixa e monitoramento operacional**.
 
-**Technologies:** Qlik Sense / Qlik Cloud • Qlik Script • Set Analysis • Associative Data Modeling • KPI Design • Investment Fund Analytics
+**Escopo público atual:**
+- Visão executiva da carteira
+- Acompanhamento por fundo e concentração de patrimônio
+- Extrato e análise de saldo de caixa
+- Indicadores de retorno, volatilidade, comparação com CDI, liquidez e alocação
+- Análise de confiabilidade dos dados
 
-> Public repository intentionally exposes only selected analytical views while the broader application continues to evolve.
+**Módulos adicionais em desenvolvimento:**
+
+Desempenho • Análise de Benchmark • Retorno por Ativo • Atribuição de Resultado • Movimentações • Qualidade do Caixa • Composição da Carteira • Histórico Mensal • Confiabilidade dos Dados • Liquidez
+
+**Tecnologias:** Qlik Sense / Qlik Cloud • Qlik Script • Set Analysis • Modelagem Associativa de Dados • Definição de KPIs • Analytics de Fundos de Investimento
+
+> O repositório público apresenta apenas algumas visões analíticas selecionadas enquanto a aplicação continua evoluindo.
 >
-> [View project →](https://github.com/felipennuness/investment-fund-analytics)
+> [Acessar o projeto](https://github.com/felipennuness/investment-fund-analytics)
 
-### 📦 [StockGuard — Intelligent Inventory Monitoring](https://github.com/felipennuness/stockguard-inventory-monitoring)
-End-to-end operational analytics case showing how Qlik can move beyond visualization into **risk prioritization and automated action**.
+### 📦 [StockGuard — Monitoramento Inteligente de Estoque](https://github.com/felipennuness/stockguard-inventory-monitoring)
 
-**Highlights:**
-- Inventory coverage calculation based on current stock and average daily sales
-- Healthy / Attention / Critical risk classification
-- Operational Qlik dashboard and priority queue
-- MySQL relational model and SQL validation
-- Fictional demo data generated/exported with Python
-- Qlik Automation workflow for critical products
-- Consolidated HTML purchase-request e-mail sent to the buyer
+Estudo de caso de analytics operacional de ponta a ponta, demonstrando como o Qlik pode ir além da visualização e apoiar a **priorização de riscos e a execução de ações automatizadas**.
 
-**Technologies:** Qlik Cloud • Qlik Sense • Qlik Automation • MySQL • SQL • Python • HTML / CSS
+**Destaques:**
+- Cálculo de cobertura de estoque com base no saldo atual e na média diária de vendas
+- Classificação de risco: saudável, atenção e crítico
+- Dashboard operacional Qlik e fila de prioridades
+- Modelo relacional MySQL e validação SQL
+- Dados fictícios gerados e exportados com Python
+- Fluxo Qlik Automation para produtos críticos
+- E-mail HTML consolidado com solicitação de compra enviado ao responsável
 
-> All StockGuard data is fictional and was created exclusively for demonstration and portfolio purposes.
+**Tecnologias:** Qlik Cloud • Qlik Sense • Qlik Automation • MySQL • SQL • Python • HTML / CSS
+
+> Todos os dados do StockGuard são fictícios e foram criados exclusivamente para demonstração e composição do portfólio.
 >
-> [View full case study →](https://github.com/felipennuness/stockguard-inventory-monitoring)
+> [Acessar o estudo de caso completo](https://github.com/felipennuness/stockguard-inventory-monitoring)
 
-### 🖥️ [Qlik Talend Cloud Data Integration POC — In Progress](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
-Ongoing data integration proof of concept built with **Qlik Talend Cloud**.
+### 🖥️ [POC de Integração de Dados com Qlik Talend Cloud — Em andamento](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
 
-**Validated milestone:**
-- **MySQL on-premises → Azure SQL Database** through Qlik Data Movement
-- Qlik Data Gateway, source/target connectivity, initial load, CDC configuration, movement execution, Azure-side validation, and troubleshooting
+Prova de conceito de integração de dados em andamento, desenvolvida com **Qlik Talend Cloud**.
 
-**Current next phase:**
-- Keep **MySQL on-premises as source**
-- Use **SQL Server as a lower-cost test destination**
-- Configure and validate **Qlik Talend Cloud pipelines, orchestration, and transformation tests**
+**Marco validado:**
+- **MySQL local (on-premises) → Azure SQL Database** com Qlik Data Movement
+- Qlik Data Gateway, conectividade entre origem e destino, carga inicial, configuração de CDC, execução da movimentação, validação no Azure e resolução de problemas
 
-**Alternative architecture explored:**
+**Próxima etapa:**
+- Manter o **MySQL local como origem**
+- Utilizar **SQL Server como destino de testes de menor custo**
+- Configurar e validar **pipelines, orquestração e testes de transformação no Qlik Talend Cloud**
+
+**Arquitetura alternativa explorada:**
 - **AWS + Apache Iceberg / Qlik Open Lakehouse**
-- Not finalized because of additional infrastructure cost for the POC
+- Não finalizada devido aos custos adicionais de infraestrutura para a POC
 
-**Validated technologies:** Qlik Talend Cloud • Data Movement • Data Gateway • CDC • MySQL On-Premises • Azure SQL Database • VM Environment • Data Integration
+**Tecnologias validadas:** Qlik Talend Cloud • Data Movement • Data Gateway • CDC • MySQL local • Azure SQL Database • Ambiente de máquina virtual • Integração de Dados
 
-**Current testing direction:** SQL Server • Qlik Data Pipelines
+**Direcionamento atual dos testes:** SQL Server • Qlik Data Pipelines
 
-> Only technically implemented and validated milestones are marked as completed.
+> Apenas etapas implementadas e validadas tecnicamente são apresentadas como concluídas.
 >
-> [View full technical case study →](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
+> [Acessar o estudo de caso técnico completo](https://github.com/felipennuness/qlik-qtc-data-integration-poc)
 
 ---
 
-## 📚 Study & Practice
+## 📚 Estudos e prática
 
-### [SQL Data Analysis Lab](https://github.com/felipennuness/sql-data-analysis-lab)
-SQL study documentation with practical MySQL exercises covering joins, subqueries, CTEs, window functions, SQL functions, analytical techniques, and a final baseball analysis project.
+### [Laboratório de Análise de Dados com SQL](https://github.com/felipennuness/sql-data-analysis-lab)
 
----
-
-## 🧠 Currently Developing
-
-- Advanced SQL for analytics and data engineering
-- Complex queries, joins, CTEs and data validation
-- Qlik Cloud and Qlik Talend Cloud architecture
-- Data pipeline design and orchestration
-- Advanced Qlik Automation and reporting workflows
-- Qlik Answers and AI-assisted analytics
-- Data Products and governed data delivery
-- Data engineering and ETL best practices
+Documentação de estudos de SQL com exercícios práticos em MySQL, abordando joins, subconsultas, CTEs, funções de janela, funções SQL, técnicas analíticas e um projeto final de análise de dados de beisebol.
 
 ---
 
-## 🎯 Portfolio Goal
+## 🧠 Conhecimentos em desenvolvimento
 
-This GitHub documents practical Business Intelligence projects, architecture decisions, data transformations, SQL studies, Qlik development techniques, Qlik Talend Cloud data integration scenarios, and continued development across the broader Qlik ecosystem.
+- SQL avançado para analytics e engenharia de dados
+- Consultas complexas, joins, CTEs e validação de dados
+- Arquitetura Qlik Cloud e Qlik Talend Cloud
+- Projeto e orquestração de pipelines de dados
+- Qlik Automation avançado e fluxos de relatórios
+- Qlik Answers e analytics com apoio de IA
+- Produtos de Dados e disponibilização governada de dados
+- Engenharia de dados e boas práticas de ETL
 
-All public case studies are designed to protect confidential information through **anonymized, simulated, synthetic, or selectively published evidence**.
+---
+
+## 🎯 Objetivo do portfólio
+
+Este GitHub reúne projetos práticos de Business Intelligence, decisões de arquitetura, transformações de dados, estudos de SQL, técnicas de desenvolvimento Qlik, cenários de integração com Qlik Talend Cloud e minha evolução contínua no ecossistema Qlik.
+
+Todos os estudos de caso públicos são preparados para proteger informações confidenciais por meio de **dados anonimizados, simulados, sintéticos ou evidências publicadas de forma seletiva**.
