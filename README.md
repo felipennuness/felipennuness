@@ -2,9 +2,8 @@
 
 ### Desenvolvedor de BI | Qlik Sense | Qlik Cloud | Qlik Talend Cloud | SQL | Análise de Dados
 
-Sou desenvolvedor de Business Intelligence, com foco em transformar necessidades de negócio e dados complexos em soluções analíticas confiáveis, claras e úteis para a tomada de decisão.
-
-Minha experiência prática inclui **Qlik Sense, Qlik Cloud Analytics, Qlik Talend Cloud (QTC), Qlik Automation, movimentação de dados, modelagem de dados, ETL, SQL, Python, desenvolvimento de dashboards, definição de KPIs, validação de dados e infraestrutura de BI**.
+Desenvolvedor Qlik e Consultor de BI (nível pleno) com 3 anos de experiência prática em Qlik Sense e Qlik Cloud e cerca de 4 anos em SQL, com atuação ponta a ponta: levantamento de requisitos, modelagem de dados, ETL/ELT, Qlik Script, QVD, Set Analysis, dashboards, KPIs e governança do tenant. 
+Experiência em projetos do setor financeiro com Google BigQuery e em engenharia de dados com Qlik Talend Cloud (Data Movement, CDC, Qlik Open Lakehouse) e AWS (S3, Glue, Athena, Redshift, Apache Iceberg)**.
 
 Também estou ampliando minha atuação no ecossistema Qlik Cloud, incluindo **Reporting, Qlik Answers, Data Products e orquestração avançada de pipelines de dados**.
 
