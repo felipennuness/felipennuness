@@ -1,6 +1,6 @@
 # Olá, sou Luiz Felipe Nunes
 
-### Desenvolvedor de BI | Qlik Sense | Qlik Cloud | Qlik Talend Cloud | SQL | Análise de Dados
+### Desenvolvedor de BI | Qlik Sense | Qlik Cloud | Qlik Talend Cloud | SQL | Python | Análise de Dados
 
 Desenvolvedor Qlik e Consultor de BI (nível pleno) com 3 anos de experiência prática em Qlik Sense e Qlik Cloud e cerca de 4 anos em SQL, com atuação ponta a ponta: levantamento de requisitos, modelagem de dados, ETL/ELT, Qlik Script, QVD, Set Analysis, dashboards, KPIs e governança do tenant. 
 Experiência em projetos do setor financeiro com Google BigQuery e em engenharia de dados com Qlik Talend Cloud (Data Movement, CDC, Qlik Open Lakehouse) e AWS (S3, Glue, Athena, Redshift, Apache Iceberg).
